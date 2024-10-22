@@ -1,4 +1,4 @@
-# WeTools.WordpressGithubRepo
+wordpress plugin
 how to use?
-在文章页面 添加短码，保存后查看页面即可
+Add a shortcode to the article page, save it, and then view the page.
 [github_repo username=”clrsdream” repo=”my”]
